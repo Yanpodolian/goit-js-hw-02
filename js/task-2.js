@@ -1,5 +1,5 @@
 
-debugger;
+
 function formatMessage(message, maxLength){
   
 
